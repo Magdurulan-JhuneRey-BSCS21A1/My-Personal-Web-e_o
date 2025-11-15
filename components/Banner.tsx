@@ -2,7 +2,7 @@ import styles from "./Banner.module.css";
 
 export default function Banner() {
   return (
-    <div className={styles.banner}>
+    <div className={`${styles.banner} bg-red-500`}>
       <div
         className={styles.slider}
         style={{ "--quantity": 10 } as React.CSSProperties}

@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "My Personal Bl_og",
+  title: "Name_o",
   description: "Rand_om things that c_omes t_o mind",
 };
 
