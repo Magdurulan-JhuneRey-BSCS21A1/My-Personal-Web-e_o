@@ -10,7 +10,6 @@
     position: absolute;
     width: 150px;
     height: 200px;
-    left: -120px;
     transform-style: preserve-3d;
     animation: autorun 20s linear infinite;
 }
